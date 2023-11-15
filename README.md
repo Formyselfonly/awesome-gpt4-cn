@@ -91,7 +91,9 @@
 
    无需手动切换模型
 
-
+## 官网
+[GPT4使用官网](https://chat.openai.com/)
+[GPT4文档](https://platform.openai.com/docs/guides/gpt)
 
 ## 开源项目
 
